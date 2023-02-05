@@ -1,3 +1,5 @@
+// Credit to mikeputnam on Github Gist for publishing this 
+// https://gist.github.com/mikeputnam/2820675 
 /*************************************************
  * Public Constants
  *************************************************/
